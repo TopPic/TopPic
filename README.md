@@ -19,7 +19,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Thanyaporn's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanyaporn-wanitcharoennan&show_icons=true&theme=tokyonight)
+![Thanyaporn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopPic&show_icons=true&theme=tokyonight)
 
 ---
 
