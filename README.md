@@ -24,4 +24,4 @@
 ---
 
 ### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)]([https://yamasakit.site]))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yamasakit.site)
