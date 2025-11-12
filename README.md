@@ -2,10 +2,6 @@
 ### 💻 Frontend Developer | 🎮 Game Website Builder | 🌐 WordPress Automator  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Game+Website+Builder;WordPress+Automator)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER.png" width="800">
-</p>
-
 ---
 
 ### 🛠 Tech Stack
@@ -15,11 +11,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=flat&logo=n8n)
-
----
-
-### 📈 GitHub Stats
-![Thanyaporn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopPic&show_icons=true&theme=tokyonight)
 
 ---
 
