@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Thanyaporn Wanitcharoennan  
+### 💻 Frontend Developer | 🎮 Game Website Builder | 🌐 WordPress Automator  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Game+Website+Builder;WordPress+Automator)](https://git.io/typing-svg)
 
-<!--
-**TopPic/TopPic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/YOUR_BANNER.png" width="800">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=flat&logo=n8n)
+
+---
+
+### 📈 GitHub Stats
+![Thanyaporn's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanyaporn-wanitcharoennan&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](https://discord.gg/YOURSERVER)
