@@ -24,6 +24,4 @@
 ---
 
 ### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](https://discord.gg/YOURSERVER)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)]([https://yourwebsite.com](http://yamasakit.site/))
