@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Thanyaporn Wanitcharoennan  
-### 💻 Frontend Developer | 🎮 Game Website Builder | 🌐 WordPress Automator  
+# 👋 Hi, 
+### 💻 Frontend Developer | 🎮 Game Website | 🌐 WordPress  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Game+Website+Builder;WordPress+Automator)](https://git.io/typing-svg)
 
 ---
