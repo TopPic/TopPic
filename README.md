@@ -1,4 +1,4 @@
-# 👋 Hi, 
+# 👋 Hi, “I’m learning about front-end development, and I hope to develop myself in this field in the future.”
 ### 💻 Frontend Developer | 🎮 Game Website | 🌐 WordPress  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Game+Website+Builder;WordPress+Automator)](https://git.io/typing-svg)
 
