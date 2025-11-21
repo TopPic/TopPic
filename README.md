@@ -1,4 +1,5 @@
-# 👋 Hi, “I’m learning about front-end development, and I hope to develop myself in this field in the future.”
+# 👋 Hi, 
+“I’m learning about front-end development, and I hope to develop myself in this field in the future.”
 ### 💻 Frontend Developer | 🎮 Game Website | 🌐 WordPress  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Game+Website+Builder;WordPress+Automator)](https://git.io/typing-svg)
 
@@ -10,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
-![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=flat&logo=n8n)
+
 
 ---
 
